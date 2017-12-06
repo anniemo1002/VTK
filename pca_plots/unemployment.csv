@@ -1,0 +1,547 @@
+LAUS Area Code ,State FIPS Code,County FIPS Code,Area Title,County Name,State,Period,Date,Civilian Labor Force,Employed Level,Unemployed Level,Unemployment Rate
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,12-Nov,11/1/12 0:00,8082,7389,693,8.6
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,12-Dec,12/1/12 0:00,7922,7061,861,10.9
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Jan,1/1/13 0:00,7907,6915,992,12.5
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Feb,2/1/13 0:00,7917,6919,998,12.6
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Mar,3/1/13 0:00,8105,7291,814,10
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Apr,4/1/13 0:00,8526,7844,682,8
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-May,5/1/13 0:00,8211,7555,656,8
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Jun,6/1/13 0:00,8812,8135,677,7.7
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Jul,7/1/13 0:00,8913,8236,677,7.6
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Aug,8/1/13 0:00,9078,8451,627,6.9
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Sep,9/1/13 0:00,9112,8583,529,5.8
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Oct,10/1/13 0:00,9072,8541,531,5.9
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Nov,11/1/13 0:00,7935,7262,673,8.5
+ CN5300100000000 ,53,1," Adams County, WA ", Adams County,WA,13-Dec,12/1/13 0:00,7720,6936,784,10.2
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,12-Nov,11/1/12 0:00,10022,9345,677,6.8
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,12-Dec,12/1/12 0:00,9965,9273,692,6.9
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Jan,1/1/13 0:00,9900,9020,880,8.9
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Feb,2/1/13 0:00,9988,9106,882,8.8
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Mar,3/1/13 0:00,10114,9323,791,7.8
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Apr,4/1/13 0:00,9935,9237,698,7
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-May,5/1/13 0:00,10005,9284,721,7.2
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Jun,6/1/13 0:00,9794,9107,687,7
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Jul,7/1/13 0:00,9473,8837,636,6.7
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Aug,8/1/13 0:00,9658,8991,667,6.9
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Sep,9/1/13 0:00,9781,9114,667,6.8
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Oct,10/1/13 0:00,9814,9165,649,6.6
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Nov,11/1/13 0:00,9778,9159,619,6.3
+ CN5300300000000 ,53,3," Asotin County, WA", Asotin County,WA,13-Dec,12/1/13 0:00,9536,8985,551,5.8
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,12-Nov,11/1/12 0:00,92081,84587,7494,8.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,12-Dec,12/1/12 0:00,91108,82816,8292,9.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Jan,1/1/13 0:00,91438,82221,9217,10.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Feb,2/1/13 0:00,91825,82655,9170,10
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Mar,3/1/13 0:00,93864,85359,8505,9.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Apr,4/1/13 0:00,92695,85171,7524,8.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-May,5/1/13 0:00,94229,86491,7738,8.2
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Jun,6/1/13 0:00,97935,89937,7998,8.2
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Jul,7/1/13 0:00,96791,88968,7823,8.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Aug,8/1/13 0:00,96102,88756,7346,7.6
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Sep,9/1/13 0:00,96896,90180,6716,6.9
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Oct,10/1/13 0:00,97064,90144,6920,7.1
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Nov,11/1/13 0:00,93625,86773,6852,7.3
+ CN5300500000000 ,53,5," Benton County, WA", Benton County,WA,13-Dec,12/1/13 0:00,90573,83457,7116,7.9
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,12-Nov,11/1/12 0:00,39413,36661,2752,7
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,12-Dec,12/1/12 0:00,37854,34718,3136,8.3
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Jan,1/1/13 0:00,37416,33855,3561,9.5
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Feb,2/1/13 0:00,37480,33860,3620,9.7
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Mar,3/1/13 0:00,37862,34598,3264,8.6
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Apr,4/1/13 0:00,37504,34573,2931,7.8
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-May,5/1/13 0:00,37956,34885,3071,8.1
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Jun,6/1/13 0:00,42109,39348,2761,6.6
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Jul,7/1/13 0:00,47381,44821,2560,5.4
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Aug,8/1/13 0:00,44882,42114,2768,6.2
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Sep,9/1/13 0:00,42304,40095,2209,5.2
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Oct,10/1/13 0:00,42825,40523,2302,5.4
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Nov,11/1/13 0:00,38230,35645,2585,6.8
+ CN5300700000000 ,53,7," Chelan County, WA", Chelan County,WA,13-Dec,12/1/13 0:00,36875,34098,2777,7.5
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,12-Nov,11/1/12 0:00,28278,25713,2565,9.1
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,12-Dec,12/1/12 0:00,28468,25699,2769,9.7
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Jan,1/1/13 0:00,28009,24975,3034,10.8
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Feb,2/1/13 0:00,27875,24813,3062,11
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Mar,3/1/13 0:00,28170,25329,2841,10.1
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Apr,4/1/13 0:00,28046,25511,2535,9
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-May,5/1/13 0:00,27478,24957,2521,9.2
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Jun,6/1/13 0:00,27907,25315,2592,9.3
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Jul,7/1/13 0:00,27599,25152,2447,8.9
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Aug,8/1/13 0:00,27953,25643,2310,8.3
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Sep,9/1/13 0:00,27542,25388,2154,7.8
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Oct,10/1/13 0:00,27558,25274,2284,8.3
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Nov,11/1/13 0:00,27712,25437,2275,8.2
+ CN5300900000000 ,53,9," Clallam County, WA ", Clallam County,WA,13-Dec,12/1/13 0:00,27273,24921,2352,8.6
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,12-Nov,11/1/12 0:00,208406,191608,16798,8.1
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,12-Dec,12/1/12 0:00,209399,191953,17446,8.3
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Jan,1/1/13 0:00,210757,186630,24127,11.4
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Feb,2/1/13 0:00,210455,186880,23575,11.2
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Mar,3/1/13 0:00,212134,190741,21393,10.1
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Apr,4/1/13 0:00,209395,189931,19464,9.3
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-May,5/1/13 0:00,209026,189642,19384,9.3
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Jun,6/1/13 0:00,209184,188390,20794,9.9
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Jul,7/1/13 0:00,205291,185331,19960,9.7
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Aug,8/1/13 0:00,208949,188936,20013,9.6
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Sep,9/1/13 0:00,205078,188648,16430,8
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Oct,10/1/13 0:00,206348,189250,17098,8.3
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Nov,11/1/13 0:00,208877,191834,17043,8.2
+ CN5301100000000 ,53,11," Clark County, WA ", Clark County,WA,13-Dec,12/1/13 0:00,204900,189798,15102,7.4
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,12-Nov,11/1/12 0:00,1442,1292,150,10.4
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,12-Dec,12/1/12 0:00,1493,1338,155,10.4
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Jan,1/1/13 0:00,1539,1352,187,12.2
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Feb,2/1/13 0:00,1572,1390,182,11.6
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Mar,3/1/13 0:00,1559,1386,173,11.1
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Apr,4/1/13 0:00,1450,1305,145,10
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-May,5/1/13 0:00,1493,1340,153,10.2
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Jun,6/1/13 0:00,1461,1312,149,10.2
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Jul,7/1/13 0:00,1440,1301,139,9.7
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Aug,8/1/13 0:00,1533,1403,130,8.5
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Sep,9/1/13 0:00,1466,1349,117,8
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Oct,10/1/13 0:00,1420,1303,117,8.2
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Nov,11/1/13 0:00,1428,1293,135,9.5
+ CN5301300000000 ,53,13," Columbia County, WA", Columbia County,WA,13-Dec,12/1/13 0:00,1427,1288,139,9.7
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,12-Nov,11/1/12 0:00,42727,38566,4161,9.7
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,12-Dec,12/1/12 0:00,42905,38526,4379,10.2
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Jan,1/1/13 0:00,42786,37699,5087,11.9
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Feb,2/1/13 0:00,42579,37461,5118,12
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Mar,3/1/13 0:00,43079,38268,4811,11.2
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Apr,4/1/13 0:00,42176,38053,4123,9.8
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-May,5/1/13 0:00,42017,37727,4290,10.2
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Jun,6/1/13 0:00,41233,36839,4394,10.7
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Jul,7/1/13 0:00,41005,36749,4256,10.4
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Aug,8/1/13 0:00,40878,36966,3912,9.6
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Sep,9/1/13 0:00,40723,37170,3553,8.7
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Oct,10/1/13 0:00,40807,37116,3691,9
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Nov,11/1/13 0:00,41442,37715,3727,9
+ CN5301500000000 ,53,15," Cowlitz County, WA ", Cowlitz County,WA,13-Dec,12/1/13 0:00,40878,37105,3773,9.2
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,12-Nov,11/1/12 0:00,21138,19731,1407,6.7
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,12-Dec,12/1/12 0:00,20420,18686,1734,8.5
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Jan,1/1/13 0:00,20155,18221,1934,9.6
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Feb,2/1/13 0:00,20138,18224,1914,9.5
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Mar,3/1/13 0:00,20310,18621,1689,8.3
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Apr,4/1/13 0:00,20032,18608,1424,7.1
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-May,5/1/13 0:00,20215,18776,1439,7.1
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Jun,6/1/13 0:00,22555,21177,1378,6.1
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Jul,7/1/13 0:00,25485,24123,1362,5.3
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Aug,8/1/13 0:00,24040,22666,1374,5.7
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Sep,9/1/13 0:00,22737,21580,1157,5.1
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Oct,10/1/13 0:00,23007,21810,1197,5.2
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Nov,11/1/13 0:00,20546,19185,1361,6.6
+ CN5301700000000 ,53,17," Douglas County, WA ", Douglas County,WA,13-Dec,12/1/13 0:00,19847,18352,1495,7.5
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,12-Nov,11/1/12 0:00,2753,2453,300,10.9
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,12-Dec,12/1/12 0:00,2759,2405,354,12.8
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Jan,1/1/13 0:00,2771,2364,407,14.7
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Feb,2/1/13 0:00,2803,2387,416,14.8
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Mar,3/1/13 0:00,2838,2441,397,14
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Apr,4/1/13 0:00,2726,2405,321,11.8
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-May,5/1/13 0:00,2750,2432,318,11.6
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Jun,6/1/13 0:00,2630,2307,323,12.3
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Jul,7/1/13 0:00,2764,2467,297,10.7
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Aug,8/1/13 0:00,2776,2501,275,9.9
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Sep,9/1/13 0:00,2728,2479,249,9.1
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Oct,10/1/13 0:00,2712,2445,267,9.8
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Nov,11/1/13 0:00,2740,2446,294,10.7
+ CN5301900000000 ,53,19," Ferry County, WA ", Ferry County,WA,13-Dec,12/1/13 0:00,2713,2400,313,11.5
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,12-Nov,11/1/12 0:00,36624,33234,3390,9.3
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,12-Dec,12/1/12 0:00,36697,32537,4160,11.3
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Jan,1/1/13 0:00,36858,32304,4554,12.4
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Feb,2/1/13 0:00,37002,32475,4527,12.2
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Mar,3/1/13 0:00,37528,33537,3991,10.6
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Apr,4/1/13 0:00,36848,33463,3385,9.2
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-May,5/1/13 0:00,37453,33981,3472,9.3
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Jun,6/1/13 0:00,38571,35336,3235,8.4
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Jul,7/1/13 0:00,38219,34954,3265,8.5
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Aug,8/1/13 0:00,37574,34872,2702,7.2
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Sep,9/1/13 0:00,37859,35431,2428,6.4
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Oct,10/1/13 0:00,37921,35417,2504,6.6
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Nov,11/1/13 0:00,37620,34092,3528,9.4
+ CN5302100000000 ,53,21," Franklin County, WA", Franklin County,WA,13-Dec,12/1/13 0:00,36823,32790,4033,11
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,12-Nov,11/1/12 0:00,989,918,71,7.2
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,12-Dec,12/1/12 0:00,1001,920,81,8.1
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Jan,1/1/13 0:00,961,865,96,10
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Feb,2/1/13 0:00,1000,894,106,10.6
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Mar,3/1/13 0:00,1022,931,91,8.9
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Apr,4/1/13 0:00,1014,937,77,7.6
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-May,5/1/13 0:00,973,899,74,7.6
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Jun,6/1/13 0:00,995,921,74,7.4
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Jul,7/1/13 0:00,981,915,66,6.7
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Aug,8/1/13 0:00,1070,1007,63,5.9
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Sep,9/1/13 0:00,992,941,51,5.1
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Oct,10/1/13 0:00,966,910,56,5.8
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Nov,11/1/13 0:00,896,839,57,6.4
+ CN5302300000000 ,53,23," Garfield County, WA", Garfield County,WA,13-Dec,12/1/13 0:00,895,832,63,7
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,12-Nov,11/1/12 0:00,40863,37394,3469,8.5
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,12-Dec,12/1/12 0:00,38966,34632,4334,11.1
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Jan,1/1/13 0:00,39357,34475,4882,12.4
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Feb,2/1/13 0:00,39890,34857,5033,12.6
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Mar,3/1/13 0:00,40669,36444,4225,10.4
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Apr,4/1/13 0:00,40702,37266,3436,8.4
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-May,5/1/13 0:00,41527,38037,3490,8.4
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Jun,6/1/13 0:00,45933,42441,3492,7.6
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Jul,7/1/13 0:00,45429,41853,3576,7.9
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Aug,8/1/13 0:00,45468,42301,3167,7
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Sep,9/1/13 0:00,47267,44425,2842,6
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Oct,10/1/13 0:00,46251,43352,2899,6.3
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Nov,11/1/13 0:00,41405,37807,3598,8.7
+ CN5302500000000 ,53,25," Grant County, WA ", Grant County,WA,13-Dec,12/1/13 0:00,38467,34447,4020,10.5
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,12-Nov,11/1/12 0:00,28525,25266,3259,11.4
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,12-Dec,12/1/12 0:00,28604,25085,3519,12.3
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Jan,1/1/13 0:00,28386,24535,3851,13.6
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Feb,2/1/13 0:00,28172,24330,3842,13.6
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Mar,3/1/13 0:00,28517,24837,3680,12.9
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Apr,4/1/13 0:00,27779,24476,3303,11.9
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-May,5/1/13 0:00,27956,24620,3336,11.9
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Jun,6/1/13 0:00,27901,24595,3306,11.8
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Jul,7/1/13 0:00,27819,24659,3160,11.4
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Aug,8/1/13 0:00,27691,24701,2990,10.8
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Sep,9/1/13 0:00,27468,24620,2848,10.4
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Oct,10/1/13 0:00,27403,24462,2941,10.7
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Nov,11/1/13 0:00,27959,24944,3015,10.8
+ CN5302700000000 ,53,27," Grays Harbor County, WA", Grays Harbor County,WA,13-Dec,12/1/13 0:00,27434,24261,3173,11.6
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,12-Nov,11/1/12 0:00,31357,29014,2343,7.5
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,12-Dec,12/1/12 0:00,31491,28996,2495,7.9
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Jan,1/1/13 0:00,31094,28354,2740,8.8
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Feb,2/1/13 0:00,31131,28373,2758,8.9
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Mar,3/1/13 0:00,31509,28934,2575,8.2
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Apr,4/1/13 0:00,31018,28760,2258,7.3
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-May,5/1/13 0:00,30822,28498,2324,7.5
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Jun,6/1/13 0:00,30600,28157,2443,8
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Jul,7/1/13 0:00,30139,27808,2331,7.7
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Aug,8/1/13 0:00,30457,28321,2136,7
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Sep,9/1/13 0:00,30228,28181,2047,6.8
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Oct,10/1/13 0:00,30401,28201,2200,7.2
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Nov,11/1/13 0:00,30613,28508,2105,6.9
+ CN5302900000000 ,53,29," Island County, WA", Island County,WA,13-Dec,12/1/13 0:00,30254,28050,2204,7.3
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,12-Nov,11/1/12 0:00,11793,10769,1024,8.7
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,12-Dec,12/1/12 0:00,11804,10689,1115,9.4
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Jan,1/1/13 0:00,11730,10478,1252,10.7
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Feb,2/1/13 0:00,11713,10434,1279,10.9
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Mar,3/1/13 0:00,11833,10654,1179,10
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Apr,4/1/13 0:00,11637,10615,1022,8.8
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-May,5/1/13 0:00,11794,10760,1034,8.8
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Jun,6/1/13 0:00,11643,10625,1018,8.7
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Jul,7/1/13 0:00,11720,10738,982,8.4
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Aug,8/1/13 0:00,11742,10828,914,7.8
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Sep,9/1/13 0:00,11590,10707,883,7.6
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Oct,10/1/13 0:00,11473,10537,936,8.2
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Nov,11/1/13 0:00,11518,10603,915,7.9
+ CN5303100000000 ,53,31," Jefferson County, WA ", Jefferson County,WA,13-Dec,12/1/13 0:00,11328,10374,954,8.4
+ CN5303300000000 ,53,33," King County, WA", King County,WA,12-Nov,11/1/12 0:00,1115094,1046130,68964,6.2
+ CN5303300000000 ,53,33," King County, WA", King County,WA,12-Dec,12/1/12 0:00,1114950,1047968,66982,6
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Jan,1/1/13 0:00,1116848,1046429,70419,6.3
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Feb,2/1/13 0:00,1131638,1068143,63495,5.6
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Mar,3/1/13 0:00,1126737,1069235,57502,5.1
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Apr,4/1/13 0:00,1138133,1088076,50057,4.4
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-May,5/1/13 0:00,1148068,1098320,49748,4.3
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Jun,6/1/13 0:00,1160741,1100816,59925,5.2
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Jul,7/1/13 0:00,1150202,1092010,58192,5.1
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Aug,8/1/13 0:00,1133905,1070304,63601,5.6
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Sep,9/1/13 0:00,1134485,1074021,60464,5.3
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Oct,10/1/13 0:00,1125876,1064310,61566,5.5
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Nov,11/1/13 0:00,1134648,1077655,56993,5
+ CN5303300000000 ,53,33," King County, WA", King County,WA,13-Dec,12/1/13 0:00,1139717,1086428,53289,4.7
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,12-Nov,11/1/12 0:00,119378,111492,7886,6.6
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,12-Dec,12/1/12 0:00,120098,111655,8443,7
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Jan,1/1/13 0:00,118202,108978,9224,7.8
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Feb,2/1/13 0:00,118266,108696,9570,8.1
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Mar,3/1/13 0:00,119378,110320,9058,7.6
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Apr,4/1/13 0:00,117115,109281,7834,6.7
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-May,5/1/13 0:00,117181,109023,8158,7
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Jun,6/1/13 0:00,116375,107997,8378,7.2
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Jul,7/1/13 0:00,114785,106671,8114,7.1
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Aug,8/1/13 0:00,115569,108262,7307,6.3
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Sep,9/1/13 0:00,114468,107467,7001,6.1
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Oct,10/1/13 0:00,115324,108149,7175,6.2
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Nov,11/1/13 0:00,116637,109705,6932,5.9
+ CN5303500000000 ,53,35," Kitsap County, WA", Kitsap County,WA,13-Dec,12/1/13 0:00,115797,108694,7103,6.1
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,12-Nov,11/1/12 0:00,20864,19401,1463,7
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,12-Dec,12/1/12 0:00,20275,18668,1607,7.9
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Jan,1/1/13 0:00,20603,18750,1853,9
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Feb,2/1/13 0:00,20597,18632,1965,9.5
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Mar,3/1/13 0:00,20840,19056,1784,8.6
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Apr,4/1/13 0:00,21450,19979,1471,6.9
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-May,5/1/13 0:00,20850,19320,1530,7.3
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Jun,6/1/13 0:00,20875,19312,1563,7.5
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Jul,7/1/13 0:00,19596,18124,1472,7.5
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Aug,8/1/13 0:00,20037,18670,1367,6.8
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Sep,9/1/13 0:00,20992,19768,1224,5.8
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Oct,10/1/13 0:00,21060,19783,1277,6.1
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Nov,11/1/13 0:00,20206,18896,1310,6.5
+ CN5303700000000 ,53,37," Kittitas County, WA", Kittitas County,WA,13-Dec,12/1/13 0:00,19523,18100,1423,7.3
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,12-Nov,11/1/12 0:00,10243,9413,830,8.1
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,12-Dec,12/1/12 0:00,10128,9149,979,9.7
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Jan,1/1/13 0:00,9938,8713,1225,12.3
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Feb,2/1/13 0:00,10292,9040,1252,12.2
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Mar,3/1/13 0:00,10380,9284,1096,10.6
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Apr,4/1/13 0:00,10359,9438,921,8.9
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-May,5/1/13 0:00,10768,9829,939,8.7
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Jun,6/1/13 0:00,11100,10165,935,8.4
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Jul,7/1/13 0:00,11472,10571,901,7.9
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Aug,8/1/13 0:00,11174,10316,858,7.7
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Sep,9/1/13 0:00,10906,10149,757,6.9
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Oct,10/1/13 0:00,10714,9929,785,7.3
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Nov,11/1/13 0:00,10144,9318,826,8.1
+ CN5303900000000 ,53,39," Klickitat County, WA ", Klickitat County,WA,13-Dec,12/1/13 0:00,9612,8791,821,8.5
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,12-Nov,11/1/12 0:00,29797,26395,3402,11.4
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,12-Dec,12/1/12 0:00,29746,26191,3555,12
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Jan,1/1/13 0:00,29710,25837,3873,13
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Feb,2/1/13 0:00,29763,25839,3924,13.2
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Mar,3/1/13 0:00,30028,26320,3708,12.3
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Apr,4/1/13 0:00,29460,26249,3211,10.9
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-May,5/1/13 0:00,29350,26123,3227,11
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Jun,6/1/13 0:00,29066,25807,3259,11.2
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Jul,7/1/13 0:00,28560,25343,3217,11.3
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Aug,8/1/13 0:00,28749,25788,2961,10.3
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Sep,9/1/13 0:00,28338,25642,2696,9.5
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Oct,10/1/13 0:00,28615,25789,2826,9.9
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Nov,11/1/13 0:00,29122,26235,2887,9.9
+ CN5304100000000 ,53,41," Lewis County, WA ", Lewis County,WA,13-Dec,12/1/13 0:00,28687,25625,3062,10.7
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,12-Nov,11/1/12 0:00,4616,4289,327,7.1
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,12-Dec,12/1/12 0:00,4639,4259,380,8.2
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Jan,1/1/13 0:00,4517,4075,442,9.8
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Feb,2/1/13 0:00,4546,4098,448,9.9
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Mar,3/1/13 0:00,4625,4213,412,8.9
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Apr,4/1/13 0:00,4472,4142,330,7.4
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-May,5/1/13 0:00,4596,4269,327,7.1
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Jun,6/1/13 0:00,4607,4264,343,7.4
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Jul,7/1/13 0:00,4501,4180,321,7.1
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Aug,8/1/13 0:00,4828,4546,282,5.8
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Sep,9/1/13 0:00,4592,4312,280,6.1
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Oct,10/1/13 0:00,4597,4298,299,6.5
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Nov,11/1/13 0:00,4479,4181,298,6.7
+ CN5304300000000 ,53,43," Lincoln County, WA ", Lincoln County,WA,13-Dec,12/1/13 0:00,4404,4068,336,7.6
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,12-Nov,11/1/12 0:00,24602,22350,2252,9.2
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,12-Dec,12/1/12 0:00,24166,21723,2443,10.1
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Jan,1/1/13 0:00,23808,21131,2677,11.2
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Feb,2/1/13 0:00,23682,20957,2725,11.5
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Mar,3/1/13 0:00,24013,21435,2578,10.7
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Apr,4/1/13 0:00,23710,21439,2271,9.6
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-May,5/1/13 0:00,23776,21435,2341,9.8
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Jun,6/1/13 0:00,23768,21359,2409,10.1
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Jul,7/1/13 0:00,23431,21158,2273,9.7
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Aug,8/1/13 0:00,23652,21521,2131,9
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Sep,9/1/13 0:00,23258,21244,2014,8.7
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Oct,10/1/13 0:00,24232,22180,2052,8.5
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Nov,11/1/13 0:00,24431,22381,2050,8.4
+ CN5304500000000 ,53,45," Mason County, WA ", Mason County,WA,13-Dec,12/1/13 0:00,23287,21190,2097,9
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,12-Nov,11/1/12 0:00,19782,18010,1772,9
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,12-Dec,12/1/12 0:00,18934,16954,1980,10.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Jan,1/1/13 0:00,18348,16051,2297,12.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Feb,2/1/13 0:00,18695,16353,2342,12.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Mar,3/1/13 0:00,19286,17120,2166,11.2
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Apr,4/1/13 0:00,18604,16828,1776,9.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-May,5/1/13 0:00,19194,17548,1646,8.6
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Jun,6/1/13 0:00,21276,19630,1646,7.7
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Jul,7/1/13 0:00,25596,23956,1640,6.4
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Aug,8/1/13 0:00,24429,22849,1580,6.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Sep,9/1/13 0:00,24145,22809,1336,5.5
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Oct,10/1/13 0:00,22330,20917,1413,6.3
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Nov,11/1/13 0:00,18668,17048,1620,8.7
+ CN5304700000000 ,53,47," Okanogan County, WA", Okanogan County,WA,13-Dec,12/1/13 0:00,18042,16261,1781,9.9
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,12-Nov,11/1/12 0:00,8581,7669,912,10.6
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,12-Dec,12/1/12 0:00,8546,7551,995,11.6
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Jan,1/1/13 0:00,8425,7348,1077,12.8
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Feb,2/1/13 0:00,8523,7461,1062,12.5
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Mar,3/1/13 0:00,8577,7586,991,11.6
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Apr,4/1/13 0:00,8476,7581,895,10.6
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-May,5/1/13 0:00,8424,7520,904,10.7
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Jun,6/1/13 0:00,8510,7594,916,10.8
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Jul,7/1/13 0:00,8491,7618,873,10.3
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Aug,8/1/13 0:00,8682,7856,826,9.5
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Sep,9/1/13 0:00,8462,7678,784,9.3
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Oct,10/1/13 0:00,8401,7558,843,10
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Nov,11/1/13 0:00,8705,7834,871,10
+ CN5304900000000 ,53,49," Pacific County, WA ", Pacific County,WA,13-Dec,12/1/13 0:00,8415,7529,886,10.5
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,12-Nov,11/1/12 0:00,5166,4637,529,10.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,12-Dec,12/1/12 0:00,5190,4581,609,11.7
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Jan,1/1/13 0:00,5179,4446,733,14.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Feb,2/1/13 0:00,5187,4451,736,14.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Mar,3/1/13 0:00,5184,4499,685,13.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Apr,4/1/13 0:00,5149,4574,575,11.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-May,5/1/13 0:00,5044,4512,532,10.5
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Jun,6/1/13 0:00,4924,4414,510,10.4
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Jul,7/1/13 0:00,4889,4392,497,10.2
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Aug,8/1/13 0:00,4917,4446,471,9.6
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Sep,9/1/13 0:00,4848,4415,433,8.9
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Oct,10/1/13 0:00,4821,4375,446,9.3
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Nov,11/1/13 0:00,4866,4383,483,9.9
+ CN5305100000000 ,53,51," Pend Oreille County, WA", Pend Oreille County,WA,13-Dec,12/1/13 0:00,4850,4319,531,10.9
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,12-Nov,11/1/12 0:00,386943,355888,31055,8
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,12-Dec,12/1/12 0:00,390192,357325,32867,8.4
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Jan,1/1/13 0:00,385867,350385,35482,9.2
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Feb,2/1/13 0:00,385198,348756,36442,9.5
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Mar,3/1/13 0:00,389744,355069,34675,8.9
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Apr,4/1/13 0:00,381366,350955,30411,8
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-May,5/1/13 0:00,381397,349840,31557,8.3
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Jun,6/1/13 0:00,379001,347236,31765,8.4
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Jul,7/1/13 0:00,374339,343731,30608,8.2
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Aug,8/1/13 0:00,378703,350193,28510,7.5
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Sep,9/1/13 0:00,379504,352581,26923,7.1
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Oct,10/1/13 0:00,378167,350264,27903,7.4
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Nov,11/1/13 0:00,381327,354021,27306,7.2
+ CN5305300000000 ,53,53," Pierce County, WA", Pierce County,WA,13-Dec,12/1/13 0:00,377999,349794,28205,7.5
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,12-Nov,11/1/12 0:00,8241,7782,459,5.6
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,12-Dec,12/1/12 0:00,8303,7765,538,6.5
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Jan,1/1/13 0:00,7339,6712,627,8.5
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Feb,2/1/13 0:00,7244,6632,612,8.4
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Mar,3/1/13 0:00,7422,6875,547,7.4
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Apr,4/1/13 0:00,7621,7177,444,5.8
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-May,5/1/13 0:00,7163,6731,432,6
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Jun,6/1/13 0:00,8503,8065,438,5.2
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Jul,7/1/13 0:00,8712,8288,424,4.9
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Aug,8/1/13 0:00,8749,8372,377,4.3
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Sep,9/1/13 0:00,8074,7700,374,4.6
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Oct,10/1/13 0:00,7401,7019,382,5.2
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Nov,11/1/13 0:00,7306,6926,380,5.2
+ CN5305500000000 ,53,55," San Juan County, WA", San Juan County,WA,13-Dec,12/1/13 0:00,7077,6666,411,5.8
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,12-Nov,11/1/12 0:00,55908,51169,4739,8.5
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,12-Dec,12/1/12 0:00,56028,50889,5139,9.2
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Jan,1/1/13 0:00,55562,49925,5637,10.1
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Feb,2/1/13 0:00,55756,50129,5627,10.1
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Mar,3/1/13 0:00,57027,51798,5229,9.2
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Apr,4/1/13 0:00,56169,51606,4563,8.1
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-May,5/1/13 0:00,56194,51508,4686,8.3
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Jun,6/1/13 0:00,55713,50966,4747,8.5
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Jul,7/1/13 0:00,55565,50990,4575,8.2
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Aug,8/1/13 0:00,56133,51915,4218,7.5
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Sep,9/1/13 0:00,55844,51916,3928,7
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Oct,10/1/13 0:00,56428,52325,4103,7.3
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Nov,11/1/13 0:00,55192,51005,4187,7.6
+ CN5305700000000 ,53,57," Skagit County, WA", Skagit County,WA,13-Dec,12/1/13 0:00,54303,49923,4380,8.1
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,12-Nov,11/1/12 0:00,5018,4567,451,9
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,12-Dec,12/1/12 0:00,5154,4575,579,11.2
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Jan,1/1/13 0:00,5174,4448,726,14
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Feb,2/1/13 0:00,5124,4454,670,13.1
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Mar,3/1/13 0:00,5171,4546,625,12.1
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Apr,4/1/13 0:00,5089,4527,562,11
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-May,5/1/13 0:00,5038,4520,518,10.3
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Jun,6/1/13 0:00,5003,4490,513,10.3
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Jul,7/1/13 0:00,4871,4417,454,9.3
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Aug,8/1/13 0:00,4970,4503,467,9.4
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Sep,9/1/13 0:00,4882,4496,386,7.9
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Oct,10/1/13 0:00,4952,4511,441,8.9
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Nov,11/1/13 0:00,5035,4572,463,9.2
+ CN5305900000000 ,53,59," Skamania County, WA", Skamania County,WA,13-Dec,12/1/13 0:00,5024,4524,500,10
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,12-Nov,11/1/12 0:00,383584,357474,26110,6.8
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,12-Dec,12/1/12 0:00,383608,358102,25506,6.6
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Jan,1/1/13 0:00,384757,357576,27181,7.1
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Feb,2/1/13 0:00,389589,364996,24593,6.3
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Mar,3/1/13 0:00,387509,365369,22140,5.7
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Apr,4/1/13 0:00,390844,371808,19036,4.9
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-May,5/1/13 0:00,393924,375309,18615,4.7
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Jun,6/1/13 0:00,399026,376161,22865,5.7
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Jul,7/1/13 0:00,395387,373152,22235,5.6
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Aug,8/1/13 0:00,389938,365735,24203,6.2
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Sep,9/1/13 0:00,389879,367005,22874,5.9
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Oct,10/1/13 0:00,387072,363687,23385,6
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Nov,11/1/13 0:00,390354,368247,22107,5.7
+ CN5306100000000 ,53,61," Snohomish County, WA ", Snohomish County,WA,13-Dec,12/1/13 0:00,392025,371245,20780,5.3
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,12-Nov,11/1/12 0:00,232218,214664,17554,7.6
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,12-Dec,12/1/12 0:00,233657,214042,19615,8.4
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Jan,1/1/13 0:00,230221,207941,22280,9.7
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Feb,2/1/13 0:00,231882,209269,22613,9.8
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Mar,3/1/13 0:00,232795,211950,20845,9
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Apr,4/1/13 0:00,229916,212626,17290,7.5
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-May,5/1/13 0:00,230590,213068,17522,7.6
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Jun,6/1/13 0:00,227119,209066,18053,7.9
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Jul,7/1/13 0:00,222375,204849,17526,7.9
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Aug,8/1/13 0:00,225232,209253,15979,7.1
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Sep,9/1/13 0:00,224884,210090,14794,6.6
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Oct,10/1/13 0:00,225031,209848,15183,6.7
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Nov,11/1/13 0:00,226658,211298,15360,6.8
+ CN5306300000000 ,53,63," Spokane County, WA ", Spokane County,WA,13-Dec,12/1/13 0:00,226034,209444,16590,7.3
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,12-Nov,11/1/12 0:00,17555,15756,1799,10.2
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,12-Dec,12/1/12 0:00,17876,15733,2143,12
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Jan,1/1/13 0:00,17649,15294,2355,13.3
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Feb,2/1/13 0:00,17749,15361,2388,13.5
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Mar,3/1/13 0:00,17917,15620,2297,12.8
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Apr,4/1/13 0:00,17510,15617,1893,10.8
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-May,5/1/13 0:00,17480,15692,1788,10.2
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Jun,6/1/13 0:00,17429,15651,1778,10.2
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Jul,7/1/13 0:00,17037,15325,1712,10
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Aug,8/1/13 0:00,17223,15677,1546,9
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Sep,9/1/13 0:00,17013,15573,1440,8.5
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Oct,10/1/13 0:00,17064,15563,1501,8.8
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Nov,11/1/13 0:00,17094,15468,1626,9.5
+ CN5306500000000 ,53,65," Stevens County, WA ", Stevens County,WA,13-Dec,12/1/13 0:00,17101,15331,1770,10.4
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,12-Nov,11/1/12 0:00,127210,118331,8879,7
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,12-Dec,12/1/12 0:00,127683,118235,9448,7.4
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Jan,1/1/13 0:00,127289,116974,10315,8.1
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Feb,2/1/13 0:00,126623,116071,10552,8.3
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Mar,3/1/13 0:00,128314,118362,9952,7.8
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Apr,4/1/13 0:00,126239,117603,8636,6.8
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-May,5/1/13 0:00,125860,116894,8966,7.1
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Jun,6/1/13 0:00,124488,115333,9155,7.4
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Jul,7/1/13 0:00,122042,113147,8895,7.3
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Aug,8/1/13 0:00,122986,114830,8156,6.6
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Sep,9/1/13 0:00,122391,114586,7805,6.4
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Oct,10/1/13 0:00,123655,115581,8074,6.5
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Nov,11/1/13 0:00,125391,117471,7920,6.3
+ CN5306700000000 ,53,67," Thurston County, WA", Thurston County,WA,13-Dec,12/1/13 0:00,123807,115572,8235,6.7
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,12-Nov,11/1/12 0:00,1458,1294,164,11.2
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,12-Dec,12/1/12 0:00,1474,1296,178,12.1
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Jan,1/1/13 0:00,1490,1293,197,13.2
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Feb,2/1/13 0:00,1556,1355,201,12.9
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Mar,3/1/13 0:00,1549,1359,190,12.3
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Apr,4/1/13 0:00,1510,1338,172,11.4
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-May,5/1/13 0:00,1406,1244,162,11.5
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Jun,6/1/13 0:00,1390,1222,168,12.1
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Jul,7/1/13 0:00,1350,1204,146,10.8
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Aug,8/1/13 0:00,1401,1282,119,8.5
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Sep,9/1/13 0:00,1397,1283,114,8.2
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Oct,10/1/13 0:00,1417,1301,116,8.2
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Nov,11/1/13 0:00,1469,1330,139,9.5
+ CN5306900000000 ,53,69," Wahkiakum County, WA ", Wahkiakum County,WA,13-Dec,12/1/13 0:00,1463,1311,152,10.4
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,12-Nov,11/1/12 0:00,30668,28819,1849,6
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,12-Dec,12/1/12 0:00,29484,27378,2106,7.1
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Jan,1/1/13 0:00,30138,27562,2576,8.5
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Feb,2/1/13 0:00,30326,27702,2624,8.7
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Mar,3/1/13 0:00,30761,28320,2441,7.9
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Apr,4/1/13 0:00,29911,27899,2012,6.7
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-May,5/1/13 0:00,28977,26899,2078,7.2
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Jun,6/1/13 0:00,29788,27715,2073,7
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Jul,7/1/13 0:00,29792,27779,2013,6.8
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Aug,8/1/13 0:00,29683,27895,1788,6
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Sep,9/1/13 0:00,29883,28200,1683,5.6
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Oct,10/1/13 0:00,30816,29101,1715,5.6
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Nov,11/1/13 0:00,30842,29035,1807,5.9
+ CN5307100000000 ,53,71," Walla Walla County, WA ", Walla Walla County,WA,13-Dec,12/1/13 0:00,28589,26695,1894,6.6
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,12-Nov,11/1/12 0:00,104383,97307,7076,6.8
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,12-Dec,12/1/12 0:00,104505,97055,7450,7.1
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Jan,1/1/13 0:00,102935,94319,8616,8.4
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Feb,2/1/13 0:00,103183,94472,8711,8.4
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Mar,3/1/13 0:00,105065,96935,8130,7.7
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Apr,4/1/13 0:00,103425,96467,6958,6.7
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-May,5/1/13 0:00,103817,96475,7342,7.1
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Jun,6/1/13 0:00,103531,95967,7564,7.3
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Jul,7/1/13 0:00,102489,95118,7371,7.2
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Aug,8/1/13 0:00,103799,97144,6655,6.4
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Sep,9/1/13 0:00,102469,96350,6119,6
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Oct,10/1/13 0:00,103349,97150,6199,6
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Nov,11/1/13 0:00,104373,98160,6213,6
+ CN5307300000000 ,53,73," Whatcom County, WA ", Whatcom County,WA,13-Dec,12/1/13 0:00,102579,96041,6538,6.4
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,12-Nov,11/1/12 0:00,22482,21342,1140,5.1
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,12-Dec,12/1/12 0:00,22025,20864,1161,5.3
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Jan,1/1/13 0:00,21905,20657,1248,5.7
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Feb,2/1/13 0:00,22583,21152,1431,6.3
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Mar,3/1/13 0:00,22971,21499,1472,6.4
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Apr,4/1/13 0:00,22669,21479,1190,5.2
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-May,5/1/13 0:00,21784,20462,1322,6.1
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Jun,6/1/13 0:00,19412,17925,1487,7.7
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Jul,7/1/13 0:00,18701,17204,1497,8
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Aug,8/1/13 0:00,21624,20391,1233,5.7
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Sep,9/1/13 0:00,21987,20858,1129,5.1
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Oct,10/1/13 0:00,22081,20985,1096,5
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Nov,11/1/13 0:00,21919,20925,994,4.5
+ CN5307500000000 ,53,75," Whitman County, WA ", Whitman County,WA,13-Dec,12/1/13 0:00,21342,20303,1039,4.9
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,12-Nov,11/1/12 0:00,121589,111062,10527,8.7
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,12-Dec,12/1/12 0:00,118383,105295,13088,11.1
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Jan,1/1/13 0:00,118489,103765,14724,12.4
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Feb,2/1/13 0:00,119583,105249,14334,12
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Mar,3/1/13 0:00,121801,108856,12945,10.6
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Apr,4/1/13 0:00,119326,108065,11261,9.4
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-May,5/1/13 0:00,122012,110480,11532,9.5
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Jun,6/1/13 0:00,129864,118787,11077,8.5
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Jul,7/1/13 0:00,135363,124686,10677,7.9
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Aug,8/1/13 0:00,129334,118382,10952,8.5
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Sep,9/1/13 0:00,134029,124909,9120,6.8
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Oct,10/1/13 0:00,133950,124843,9107,6.8
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Nov,11/1/13 0:00,120627,110003,10624,8.8
+ CN5307700000000 ,53,77," Yakima County, WA", Yakima County,WA,13-Dec,12/1/13 0:00,116153,103862,12291,10.6
